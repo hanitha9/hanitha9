@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hanitha Ganisetti
 
-## 🚀 About Me
+## About Me
 I am a passionate **AI/ML Engineer**, **Blockchain Developer**, and **Full-Stack Developer** with a strong interest in **IoT** and **Big Data Analytics**. My expertise encompasses **Natural Language Processing (NLP)**, **Deep Learning**, **Smart Contracts**, and **Web3** technologies.
 
 ## 🏆 Skills & Technologies
